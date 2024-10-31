@@ -36,3 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 venv/
+backend/model/match_prediction_model.pkl

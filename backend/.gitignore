@@ -1,0 +1,15 @@
+# Python bytecodes
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Django specific
+db.sqlite3
+
+# Logs
+*.log
+
+backend/model/match_prediction_model.pkl
