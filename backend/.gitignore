@@ -4,12 +4,8 @@ __pycache__/
 
 # Virtual environments
 .venv/
-venv/
-
-# Django specific
-db.sqlite3
 
 # Logs
 *.log
-
+.env
 backend/model/match_prediction_model.pkl
